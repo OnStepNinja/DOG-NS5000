@@ -35,7 +35,7 @@ NS-5000 packages are available as paid downloads, while OnStep (NS-300) related 
 - NS-5000 binaries and tools (paid, BOOTH)  
   https://onstepninja.booth.pm/
 
-- OnStep (NS-300) related files (free, BOOTH)  
+- OnStep (NS-3000) related files (free, BOOTH)  
   https://onstepninja.booth.pm/
 
 - Official OnStep project repository  
