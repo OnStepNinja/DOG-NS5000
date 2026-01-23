@@ -1,3 +1,32 @@
+## About the Author
+
+The systems and design philosophy behind OnStepNinja, NS-5000,
+and AiBridge are based on more than four decades of hands-on
+experience in real-time control and embedded systems.
+
+I am a hardware and software engineer with a background in
+arcade game machine development and telescope control systems.
+
+In the 1980s, I worked on arcade game machines, where I gained
+practical experience in real-time control, hardware-level timing,
+and embedded software design.
+
+In 1992, I developed and commercialized the GOTO system **DOG NS-4**
+based on the Z80 CPU.  
+DOG stands for **Digital Observer Guide**.
+
+This was followed by the photodiode-based autoguider **SST**,  
+and in 1995 the encoder-compatible **DOG NS-12** (also Z80-based),  
+together with the video-camera autoguider **VST**.
+
+In 2008, I developed **DOG NS-5000**, a more advanced GOTO system
+using a 16-bit CPU, designed for long-term real-world observatory use.
+
+In 2025, I released **AiBridge**, an interface system connecting
+OnStep, NS-5000, and external devices, and **OnStepNinja**,  
+a hybrid telescope control framework integrating OnStep and NS-5000.
+
+
 ## Usage and License Summary
 
 This repository uses a custom license. See LICENSE.md for full terms.
