@@ -41,61 +41,50 @@ NS-5000 packages are available as paid downloads, while OnStep (NS-3000) related
 - Official OnStep project repository  
   https://github.com/hjd1964/OnStep
 
-## Usage and License Summary
+---
 
-This repository uses a custom license. See LICENSE.md for full terms.
+## Usage and License Summary (v1.1)
+This project follows the OnStepNinja License v1.1. We provide an open hardware reference design for a hybrid telescope mount controller compatible with OnStep and NS-5000. We encourage DIY building and community sharing!
 
-This project provides an open hardware reference design for a hybrid telescope mount controller compatible with OnStep and NS-5000.
+✅ What you CAN do
+Enjoy DIY: Use the schematics and PCB data for your personal projects.
 
-### What you CAN do
-- Use the schematics freely for personal and DIY projects
-- Build, modify, and use the hardware on your own telescope
-- Use the design with OnStep firmware
-- Study and improve your own mount control system
+Build & Modify: Construct, improve, and use the hardware on your own telescope.
 
-### What you CANNOT do
-- Use NS-5000 software or firmware for commercial purposes
-- Sell products or services using NS-5000 without permission
-- Use the name **OnStepNinja** for your own boards or products
-- Claim your hardware as an official OnStepNinja product
+Share the Hardware: You are free to share or give away unprogrammed PCBs to your friends or club members at cost for non-commercial use.
 
-### Naming Policy
-The name **OnStepNinja™** is reserved for the original boards designed or authorized by the author.  
-Third-party or DIY boards may be compatible, but must not use the name OnStepNinja on silkscreen, product names, or documentation.
+⚠️ Important: Software License
+No Binary Redistribution: Copying or distributing the NS-5000 binary data is strictly prohibited.
 
-### Commercial Use
-Commercial use of NS-5000 requires a separate license.  
-Please contact the author for commercial licensing.
+Individual Purchase: Every user who operates the NS-5000 software must purchase their own license from our official store (BOOTH). This supports the continued development of the project.
 
-This project is intended to support individual users, DIY builders, and the open astronomy community.
+❌ What you CANNOT do
+Commercial Use: Sell products or services using NS-5000 without prior written permission.
 
+Brand Infringement: Use the names "OnStepNinja" or "NS-5000" for your own commercial products.
 
+---
 
-## 利用条件の概要
+## 利用規約とライセンスの概要 (v1.1)
+本プロジェクトは OnStepNinja License v1.1 に準拠しています。OnStepおよびNS-5000と互換性のあるハイブリッド望遠鏡マウント制御装置の設計を公開しており、DIYによる製作とコミュニティ内での共有を心から歓迎します！
 
-このプロジェクトは、OnStep と NS-5000 に対応した  
-ハイブリッド赤道儀制御用のオープンハードウェア設計です。
+✅ 許可されること
+DIYを楽しむ: 回路図や基板データを、個人のプロジェクトで自由に使用すること。
 
-### できること
-- 個人利用・DIY目的で、回路図を自由に使用できます
-- 自分の赤道儀に組み込んで製作・改造・運用できます
-- OnStep ファームウェアと組み合わせて使用できます
-- 学習・研究・個人天文活動に自由に活用できます
+製作と改変: 自身の望遠鏡のためにハードウェアを製作し、自由にカスタマイズして使用すること。
 
-### できないこと
-- NS-5000 のソフトウェア／ファームウェアを商用利用すること
-- NS-5000 を使った製品・サービスを無断で販売すること
-- 自作基板や製品に **OnStepNinja** の名前を使うこと
-- 自分の製品を「公式 OnStepNinja」と称すること
+基板の共有: 製作した未書き込みの基板を、非営利目的（実費程度）で仲間に譲渡したり共有したりすること。
 
-### 名前（ブランド）について
-**OnStepNinja™** は、作者が設計・管理するオリジナル基板専用の名称です。  
-互換基板や自作基板では、基板名・製品名・シルク印刷などに  
-OnStepNinja の名前を使用しないでください。
+⚠️ 重要：ソフトウェアのライセンスについて
+バイナリ配布の禁止: NS-5000のバイナリデータそのものをコピーして配布することは禁止されています。
 
-### 商用利用について
-NS-5000 の商用利用には、別途ライセンス契約が必要です。  
-商用案件については、作者までご相談ください。
+各自での購入義務: NS-5000ソフトウェアを使用して実際に望遠鏡を動かす方は、開発継続への支援として、各自で公式ストア（BOOTH）からライセンスを購入してください。
 
+❌ 禁止されること
+商用利用: 許可なくNS-5000を利用した製品やサービスを販売・提供すること。
+
+名称利用の制限: 「OnStepNinja」や「NS-5000」の名称を、自身の商用製品やブランド名として使用すること。
+
+---
 本プロジェクトは、個人ユーザやDIY愛好家が  
 安心して自由に使えることを目的としています。
