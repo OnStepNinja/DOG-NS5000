@@ -39,13 +39,11 @@ All rights reserved.
 
 ### 3. Prohibitions on Redistribution and Transfer
 
-The following actions are **strictly prohibited without explicit written permission from the licensor**:
+1. No Software Redistribution: Copying or distributing the software (binary data) is prohibited.
 
-1. No Redistribution: Redistribution, lending, or public transmission (including uploading to the internet) of the Licensed Software or its copies is strictly prohibited, whether for a fee or free of charge.
+2. Hardware Sharing Welcome: You are free to share or give away unprogrammed PCBs to your friends or club members for non-commercial purposes.
 
-2. Non-Transferable: The rights granted under this license belong solely to the original purchaser and may not be transferred, assigned, or sublicensed to any third party.
-
-3. Disposal of Hardware: If hardware containing the Licensed Software is sold or transferred to a third party, the original owner must erase the Licensed Software. The new owner must purchase their own license to use the software.
+3. User Responsibility: Every operator who uses the NS-5000 software must purchase their own license from the official store (BOOTH).
 
 ---
 
@@ -103,11 +101,11 @@ Copyright (c) 2026 Nishioka Sadahiko All rights reserved.
 ---
 
 第3条（譲渡および再配布の禁止）
-1. 再配布の禁止: 有償・無償を問わず、本ソフトウェア（バイナリデータ）およびその複製物を第三者に譲渡、配布、貸与、または公衆送信（インターネットへのアップロード等）することを固く禁止します。
+1. バイナリの配布禁止: ソフトウェア（バイナリデータ）そのものをコピーして配ることは、有償・無償を問わず禁止します。
 
-2. 使用権の譲渡不可: 本ライセンスに基づく使用権は購入者本人に帰属し、第三者への譲渡、承継、またはサブライセンスは認められません。
+2. ハードウェアの譲渡歓迎: 本設計資料に基づいて製作した未書き込みの基板を、非営利目的（実費程度）で仲間に譲渡することは自由です。
 
-3. 中古販売時の扱い: 本ソフトウェアを書き込んだ状態の機器を第三者に譲渡または売却する場合、元の所有者は自身の保持する本ソフトウェアのデータをすべて消去しなければなりません。譲受人が本ソフトウェアを利用する場合、譲受人自身が新たにライセンス（バイナリ）を購入する必要があります。
+3. 利用者の義務: 本ソフトウェア（NS-5000）を実際に使用して望遠鏡を駆動させる方は、各自がBOOTH等を通じて正規のライセンス（バイナリ）を購入してください。
 
 ---
 
