@@ -37,7 +37,7 @@ All rights reserved.
 
 ---
 
-### 3. Prohibitions on Redistribution and Transfer
+### 3. Redistribution and Hardware Sharing
 
 1. No Software Redistribution: Copying or distributing the software (binary data) is prohibited.
 
@@ -100,7 +100,7 @@ Copyright (c) 2026 Nishioka Sadahiko All rights reserved.
 
 ---
 
-第3条（譲渡および再配布の禁止）
+第3条（再配布とハードウェアの共有）
 1. バイナリの配布禁止: ソフトウェア（バイナリデータ）そのものをコピーして配ることは、有償・無償を問わず禁止します。
 
 2. ハードウェアの譲渡歓迎: 本設計資料に基づいて製作した未書き込みの基板を、非営利目的（実費程度）で仲間に譲渡することは自由です。
