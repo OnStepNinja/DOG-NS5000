@@ -19,7 +19,7 @@ All rights reserved.
 
 ### 1. Definitions
 
-1. "OnStepNinja" refers to the name, concept, and system design created by the licensor (Nishioka Sadahiko).
+1. "OnStepNinja" refers to the name, concept, and system design created by the licensor.
 
 2. "Licensed Materials" refer to circuit schematics, PCB data, and related documentation.
 
