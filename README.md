@@ -1,41 +1,20 @@
-## About the Author
+## OnStep NS-3000 Release
 
-The systems and design philosophy behind OnStepNinja, NS-5000,
-and AiBridge are grounded in many years of hands-on
-experience in real-time control and embedded systems.
+2026-02-03: The customized OnStep derivative **OnStep NS-3000**
+(ESP32 firmware binaries and source code) is now available for free on BOOTH.
 
-I am a hardware and software engineer with a background in
-arcade game machine development and telescope control systems.
+This repository does not include the firmware itself.
+Please refer to the BOOTH page for the binaries, source code, and schematics.
+https://onstepninja.booth.pm/items/7944168
 
-In the 1980s, I worked on arcade game machines, where I gained
-practical experience in real-time control, hardware-level timing,
-and embedded software design.
-
-In 1992, I developed and commercialized the GOTO system **DOG NS-4**
-based on the Z80 CPU.  
-DOG stands for **Digital Observer Guide**.
-
-This was followed by the photodiode-based autoguider **SST**,  
-and in 1995 the encoder-compatible **DOG NS-12** (also Z80-based),  
-together with the video-camera autoguider **VST**.
-
-In 2008, I developed **DOG NS-5000**, a more advanced GOTO system
-using a 16-bit CPU, designed for long-term real-world observatory use.
-
-In 2025, I released **AiBridge**, an interface system connecting
-OnStep, NS-5000, and external devices, and **OnStepNinja**,  
-a hybrid telescope control framework integrating OnStep and NS-5000.
-
-For binaries and applications, please visit my BOOTH page:
-https://onstepninja.booth.pm/
-NS-5000 packages are available as paid downloads, while OnStep (NS-3000) related files are provided for free.
+Note: OnStep NS-3000 is an independent derivative and is not an official OnStep release.
 
 ## Downloads / External Resources
 
 - NS-5000 binaries and tools (paid, BOOTH)  
   https://onstepninja.booth.pm/
 
-- OnStep (NS-3000) related files (free, BOOTH)  
+- OnStep NS-3000 related files (free, BOOTH)  
   https://onstepninja.booth.pm/
 
 - Official OnStep project repository  
